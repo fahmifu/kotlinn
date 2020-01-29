@@ -1,0 +1,21 @@
+Latihan
+
+Lengkapi potongan kode pada program sederhana di samping agar dapat berjalan dengan baik. 
+
+TODO 1: 
+Ubahlah menjadi suspend function dengan ketentuan sebagai berikut:
+Memiliki waktu tunggu 3 detik sebelum operasi selanjutnya berjalan.
+Mengembalikan nilai hasil penjumlahan valueA dan valueB.
+
+TODO 2: 
+Ubahlah menjadi suspend function dengan ketentuan sebagai berikut:
+Memiliki waktu tunggu 2 detik sebelum operasi selanjutnya berjalan.
+Mengembalikan nilai hasil perkalian valueA dan valueB.
+
+TODO 3: 
+Tambahkan fungsi untuk mencetak nilai tangguhan dari variable resultSum dan resultMultiple pada konsol. 
+
+Jika dijalankan, pada konsol akan menampilkan teks:
+Counting...
+Result sum: 20
+Result multiple: 400

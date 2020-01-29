@@ -1,0 +1,23 @@
+Latihan
+
+Lengkapi potongan kode pada program sederhana di samping agar dapat berjalan dengan baik. 
+
+TODO 1 : 
+Lengkapi kode pada kelas Cat dengan ketentuan seperti berikut:
+Buatlah fungsi getter setter untuk properti sleep yang di dalamnya terdapat fungsi untuk mencetak teks:
+Fungsi getter/setter dipanggil
+Tambahkan kode pada fungsi toSleep() untuk mencetak teks:
+[name], sleep!
+jika sleep bernilai true dan teks:
+name, let's play!
+jika sleep bernilai false.
+
+TODO 2 : 
+Lengkapi inisialisasi dengan kelas Cat. 
+
+Jika dijalankan konsol akan menampilkan teks seperti berikut:
+Fungsi getter dipanggil
+Gippy, let's play!
+Fungsi setter dipanggil
+Fungsi getter dipanggil
+Gippy, sleep!

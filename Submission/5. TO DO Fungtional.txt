@@ -1,0 +1,12 @@
+Latihan
+
+Lengkapi potongan kode pada program sederhana di samping agar dapat berjalan dengan baik. 
+
+TODO 1 : 
+Buatlah fungsi getFirstAndLast yang menjadi ekstensi dari kelas String dengan tipe kembalian Map<String, Char> 
+
+TODO 2 : 
+Tambahkan fungsi untuk mencetak nilai dari variable firstChar dan lastChar pada konsol.
+
+Jika dijalankan konsol akan menampilkan teks seperti berikut:
+First letter is K and n for second letter

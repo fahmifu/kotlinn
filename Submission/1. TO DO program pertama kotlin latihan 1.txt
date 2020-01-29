@@ -1,0 +1,16 @@
+Latihan
+
+Lengkapi potongan kode pada program sederhana di samping agar dapat berjalan dengan baik. 
+
+TODO 1 : 
+Lengkapi inisialisasi variable result dengan melakukan operasi matematika pada argumen yang diberikan dengan rumus perhitungan berikut:
+valueA + (valueB - valueC)
+Jika valueC bernilai null berikan 100 untuk nilai defaultnya. 
+
+TODO 2 : 
+Lengkapi dengan kode untuk mengembalikan nilai berupa teks yang nantinya akan dicetak pada konsol. 
+
+
+Jika dijalankan, maka pada konsol akan menampilkan text: 
+ResultA is 39
+ResultB is 17

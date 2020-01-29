@@ -1,0 +1,18 @@
+Latihan
+
+Lengkapi potongan kode pada program sederhana di samping agar dapat berjalan dengan baik. 
+
+TODO 1 : 
+Lengkapi dengan kode untuk inisialisasi objek user dengan ketentuan key dan value sebagai berikut:
+name = John
+age = 23
+address = St. Petersburg
+TODO 2 : 
+Lengkapi kode pada fungsi getValue() untuk mendapatkan nilai dari objek user. 
+
+TODO 3 : 
+Tambahkan fungsi untuk mencetak teks berikut pada konsol: 
+User
+Name: John
+Age: 23
+Address: St. Petersburg
